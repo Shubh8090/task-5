@@ -1,0 +1,53 @@
+{
+    "Name" : "Shubham Sharma",
+    "Age": 28,
+    "DOB": "23/04/1995",
+    "Email":"shubhamsharma2334@gmail.com",
+    "Address": "9/709 Indra Nagar lucknow pincode-226016",
+    "Education": [
+        {
+            "Board": "CBSE 10th Standard",
+            "School Name": "Central Academy",
+            "Passing year": 2011,
+            "Percentage": "81%",
+            "Group": "Science"
+
+        },
+        {
+            
+            "Board": "CBSE 12th Standard",
+            "School Name": "Central Academy",
+            "Passing year": 2013,
+            "Percentage": "66%",
+            "Group": "Science"
+        },
+        {
+            
+            "Board": "AKTU",
+            "College Name": "SR group of instituion",
+            "Passing year": 2017,
+            "Percentage": "74.88%",
+            "Group": "B-TECH - CIVIL ENGINEERING"
+        }],
+    "Experience": [
+        {
+            "Compnay Name": "Rishita Developers PVT LTD",
+            "Job Profile" : "Site Engineer",
+            "Work Duration" : "2017-2018",
+            "work" : "High Rise Buliding"
+        },
+        {
+            "Compnay Name": "AROH Foundation",
+            "Job Profile" : "Quality Engineer",
+            "Work Duration" : "2018-2020",
+            "work" : "Foundation Work" 
+        },
+        {
+            "Compnay Name": "VS Waste pvt ltd",
+            "Job Profile" : "Mechanical Head",
+            "Work Duration" : "2020-till",
+            "work" : "Maintaince of Heavy Vehicles,Management Of worker"
+        }
+    ]
+
+}
